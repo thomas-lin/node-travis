@@ -1,0 +1,6 @@
+build:
+  image: node:4.7
+  commands:
+    - npm install
+    - npm test
+    
